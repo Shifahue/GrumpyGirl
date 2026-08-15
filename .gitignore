@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+.expo/
+
+# Editor
+.vscode/
+.DS_Store
+
+# Environment
+*.env
