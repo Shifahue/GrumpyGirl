@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "grumpygirl",
+    "slug": "grumpygirl",
+    "platforms": ["ios", "android", "web"]
+  }
+}
